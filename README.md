@@ -1,2 +1,2 @@
 # JSONBotTest
-no
+yes
